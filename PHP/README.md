@@ -1,5 +1,3 @@
-# note
+# PHP
 
-Note on GitBook
-
-- <https://note.eallion.com>
+Some notes about PHP

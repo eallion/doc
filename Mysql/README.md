@@ -1,5 +1,3 @@
-# note
+# Mysql
 
-Note on GitBook
-
-- <https://note.eallion.com>
+Some notes about Mysql

@@ -1,5 +1,3 @@
-# note
+# Hugo
 
-Note on GitBook
-
-- <https://note.eallion.com>
+Some notes about Hugo

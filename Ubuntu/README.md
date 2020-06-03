@@ -1,5 +1,3 @@
-# note
+# Ubuntu
 
-Note on GitBook
-
-- <https://note.eallion.com>
+Some notes about Ubuntu

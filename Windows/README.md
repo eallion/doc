@@ -1,5 +1,3 @@
-# note
+# Windows
 
-Note on GitBook
-
-- <https://note.eallion.com>
+Some notes about Windows
