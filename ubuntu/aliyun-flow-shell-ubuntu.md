@@ -1,4 +1,4 @@
-# aliyun-flow-shell
+# aliyun-flow-shell-ubuntu
 
 ## 阿里云 云效构建Hugo脚本
 

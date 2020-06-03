@@ -6,7 +6,7 @@
 * [Nginx](nginx/README.md)
   * [aliyun-flow-shell](nginx/aliyun-flow-shell.md)
 * [Ubuntu](ubuntu/README.md)
-  * [aliyun-flow-shell](ubuntu/aliyun-flow-shell-ubuntu.md)
+  * [aliyun-flow-shell-ubuntu](ubuntu/aliyun-flow-shell-ubuntu.md)
 * [Windows](windows/README.md)
   * [aliyun-flow-shell](windows/aliyun-flow-shell.md)
 * [GitHub](github/README.md)
