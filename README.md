@@ -2,10 +2,10 @@
 
 This is my some public notes on GitBook.
 
-- <https://note.eallion.com>
+* [https://note.eallion.com](https://note.eallion.com)
 
-### Contact
+## Contact
 
-- Issue: <https://github.com/eallion/note/issues/new>
+* Issue: [https://github.com/eallion/note/issues/new](https://github.com/eallion/note/issues/new)
+* Email: `echo -n "ZWFsbGlvbnNAZ21haWwuY29t" | base64 -d`
 
-- Email: `echo -n "ZWFsbGlvbnNAZ21haWwuY29t" | base64 -d`
