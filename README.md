@@ -1,6 +1,6 @@
 # Introduction
 
-This is my some public notes on GitBook.
+This is my public notes on GitBook.
 
 * [https://note.eallion.com](https://note.eallion.com)
 
