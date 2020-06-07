@@ -1,4 +1,4 @@
-# Introduction
+# Intro
 
 This is my public notes on GitBook.
 
