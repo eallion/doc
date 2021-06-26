@@ -1,4 +1,4 @@
-### Rewrite
+### Typecho Nginx Rewrite
 
 - 方案一
 ```
