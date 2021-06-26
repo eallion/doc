@@ -1,4 +1,4 @@
-# GitHub
+# Gmail
 
 Some notes about Gmail
 
